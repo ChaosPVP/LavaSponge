@@ -1,0 +1,3 @@
+name: LavaSponge
+main: org.chaospvp.lavasponge.LavaSponge
+version: ${project.version}
